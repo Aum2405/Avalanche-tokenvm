@@ -148,7 +148,7 @@ The first step to running these demos is to launch your own `tokenvm` Subnet. Yo
 can do so by running the following command from this location (may take a few
 minutes):
 ```bash
-./scripts/run.sh;
+./scripts/run.sh
 ```
 
 _By default, this allocates all funds on the network to
